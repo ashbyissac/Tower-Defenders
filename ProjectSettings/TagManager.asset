@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoints1
+  - End
+  - Parent
+  - WaypointManager
+  - Enemy1
+  - ArrowProjectile
+  - BulletProjectile
+  - CanonProjectile
+  - Enemy
+  - Tower
+  - BulletPool
+  - Ground
+  - BulletObjectPool
+  - ArrowObjectPool
+  - CanonObjectPool
+  - EnemyObjectPool
+  - Projectile
+  - Bank
+  - StartPoint
+  - TowerWaypoint
+  - GameOverUI
+  - PauseSystemUI
+  - CurrentBalanceText
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Tower
+  - Projectile
+  - TowerParent
+  - TowerBody
+  - TowerUpgradeButton
+  - Ground
+  - Obstacles
+  - TowerWaypoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
